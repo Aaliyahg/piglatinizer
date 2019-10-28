@@ -1,6 +1,8 @@
 .container{
     text-align:center;
+    font-family: 'Press Start 2P', cursive;
+
 }
 body{
-    background:blue;
+    background-image:url("https://www.snopes.com/tachyon/2016/10/peppa.jpg?resize=865,452");
 }
